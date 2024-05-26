@@ -1,0 +1,12 @@
+.idea/
+.vs/
+.vscode/
+
+quick-shop-backend/bin/*
+quick-shop-backend/obj/*
+
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
